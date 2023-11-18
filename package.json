@@ -18,6 +18,9 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "esbuild": "^0.19.5"
+    "@pinia/nuxt": "^0.5.1",
+    "esbuild": "^0.19.5",
+    "pinia": "^2.1.7",
+    "volar-service-vetur": "^0.0.17"
   }
 }
